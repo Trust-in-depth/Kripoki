@@ -1,0 +1,16 @@
+# Frontend
+audit-shield/node_modules/
+audit-shield/dist/
+audit-shield/.env
+audit-shield/.env.*
+!audit-shield/.env.example
+
+# Backend
+audit-backend/.venv/
+audit-backend/__pycache__/
+audit-backend/*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
